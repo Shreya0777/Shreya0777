@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Web-Developments project**
 
-- 🌱 I’m currently learning **Web-Development, Problem Solving and Devopss**
+- 🌱 I’m currently learning **Web-Development, Problem Solving**
 
 - 📫 How to reach me **singhsshreya297@gmail.com**
 
