@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya0777&label=Profile%20views&color=0e75b6&style=flat" alt="shreya0777" /> </p>
 
-- 🔭 I’m currently working on **Web-Developments project**
+- 🔭 I’m currently working on **Web-Development projects**
 
 - 🌱 I’m currently learning **Web-Development, Problem Solving**
 
