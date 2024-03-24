@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **singhsshreya297@gmail.com**
 
-- 📄 Know about my experiences https://docs.google.com/document/d/1BbZGG355Z54-4OEesX8L1DVSXtN1nPx0BxWUq0zTOSo/edit?usp=sharing
+- 📄 Know about my experiences [https://docs.google.com/document/d/1BbZGG355Z54-4OEesX8L1DVSXtN1nPx0BxWUq0zTOSo/edit?usp=sharing](https://drive.google.com/file/d/1G3RriAA6cyplDhW3JYzJNsrOxNmad4nW/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I am funny**
 
